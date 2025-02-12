@@ -14,3 +14,9 @@ CSS Gradients – To enhance visuals with smooth color transitions 🌈
 PokéAPI – To access real-time Pokémon data 🐉
 
 # 📸 Screenshot
+![gif (2)](https://github.com/user-attachments/assets/5fdd24a2-ab8a-4351-a148-55bf7577ce1f)
+
+
+# 📧 Contact
+mervegecici8@gmail.com <br/>
+www.linkedin.com/in/mervenur-aydın
